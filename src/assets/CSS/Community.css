@@ -1,0 +1,15 @@
+.community-wrapper {
+  width: 90%;
+  padding: 20px 10px;
+}
+
+.community-title {
+  color: #92217a;
+  margin-right: 15px;
+  font-weight: 800;
+}
+
+.community-subtitle {
+  color: #92217a;
+  font-weight: 750;
+}
