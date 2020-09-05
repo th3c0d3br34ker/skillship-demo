@@ -17,3 +17,34 @@ section {
   padding: 20px 0;
   max-width: 1000px;
 }
+
+html,
+body {
+  scroll-behavior: smooth;
+  margin: 0;
+  font: 16px / 23px Montserrat, sans-serif;
+  background-color: var(--background-color);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+/* Media Query */
+@media (max-width: 1440) {
+  html,
+  body {
+    font-size: 16px;
+    line-height: normal;
+  }
+}
+
+body::-webkit-scrollbar {
+  width: 10px;
+}
+
+body::-webkit-scrollbar-track {
+  background: white;
+}
+
+body::-webkit-scrollbar-thumb {
+  background: #92217a;
+  border-radius: 5px;
+}

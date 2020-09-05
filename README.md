@@ -9,5 +9,7 @@ This is a demo site for SkillShip Foundation.
 1. Navbar
 2. Greeting
 3. Community
-4. Footer
-5. Top button
+4. Blogs
+5. Branches
+6. Footer
+7. Top Button

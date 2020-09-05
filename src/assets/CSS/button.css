@@ -1,0 +1,34 @@
+.main-button {
+  background-color: white;
+  color: #92217a;
+  border: solid 1px #92217a;
+  font-weight: 700;
+  width: max-content;
+  padding: 10px 20px;
+  text-align: center;
+  display: block;
+  font-size: 16px;
+  cursor: pointer;
+  transition: all 0.3s ease-in-out 0s;
+}
+
+.main-button:hover {
+  color: white;
+  background-color: #92217a;
+  text-decoration: none;
+  transition: all 0.3s ease 0s;
+  transform: translateY(-3px);
+}
+
+.title-button {
+  float: right;
+  margin-top: -50px;
+}
+
+@media (max-width: 425px) {
+  .title-button {
+    font-size: 12px;
+    padding: 10px 12px;
+    margin-top: 0;
+  }
+}

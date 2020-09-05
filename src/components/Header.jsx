@@ -27,6 +27,12 @@ function Header() {
               <a href="#community">Community</a>
             </li>
             <li>
+              <a href="#blogs">Blogs</a>
+            </li>
+            <li>
+              <a href="#branches">Our Branches</a>
+            </li>
+            <li>
               <a href="#contact">Contact Us</a>
             </li>
           </ul>

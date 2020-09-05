@@ -1,6 +1,6 @@
 {
   "name": "skillship-demo",
-  "homepage": "skillship-vellore.netlify.app",
+  "homepage": "https://skillship-vellore.netlify.app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

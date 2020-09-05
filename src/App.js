@@ -1,5 +1,7 @@
 import React, { Component } from "react";
 
+import Blogs from "./components/Blogs.jsx";
+import Branches from "./components/Branches.jsx";
 import Community from "./components/Community.jsx";
 import Greetings from "./components/Greetings.jsx";
 import Header from "./components/Header.jsx";
@@ -9,7 +11,7 @@ import TopButton from "./components/TopButton";
 
 class App extends Component {
   state = {
-    loading: true,
+    loading: false,
   };
 
   componentDidMount() {
@@ -27,6 +29,8 @@ class App extends Component {
             <Header />
             <Greetings />
             <Community />
+            <Blogs />
+            <Branches />
             <SocialMedia />
             <TopButton />
           </React.Fragment>

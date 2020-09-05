@@ -1,0 +1,33 @@
+.branches-wrapper {
+  width: 90%;
+  padding: 20px 10px;
+}
+
+.branches-title {
+  color: #92217a;
+  margin-right: 15px;
+  font-weight: 800;
+}
+
+.branches-subtitle {
+  color: #92217a;
+  font-weight: 750;
+}
+
+.image_wrapper {
+  width: 50%;
+}
+
+@media only screen and (max-width: 768px) {
+  .image_wrapper {
+    width: 100%;
+  }
+
+  .branches-wrapper {
+    padding: 20px;
+  }
+
+  .branches-heading {
+    display: inline-block;
+  }
+}

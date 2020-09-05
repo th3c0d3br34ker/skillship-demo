@@ -4,7 +4,7 @@
   padding: 10px;
   position: fixed;
   bottom: 1.2rem;
-  left: 1.5rem;
+  left: 15px;
   width: 40px;
 }
 
@@ -45,7 +45,7 @@
   width: 40px;
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 768px) {
   .socialmedia-wrapper-left {
     display: none;
   }

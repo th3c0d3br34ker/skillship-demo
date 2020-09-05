@@ -1,15 +1,15 @@
-.community-wrapper {
+.blogs-wrapper {
   width: 90%;
   padding: 20px 10px;
 }
 
-.community-title {
+.blogs-title {
   color: #92217a;
   margin-right: 15px;
   font-weight: 800;
 }
 
-.community-subtitle {
+.blogs-subtitle {
   color: #92217a;
   font-weight: 750;
 }
@@ -19,7 +19,7 @@
     font-size: 10px;
   }
 
-  .community-heading {
+  .blogs-heading {
     display: inline-block;
   }
 }
