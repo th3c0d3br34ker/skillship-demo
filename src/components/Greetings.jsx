@@ -14,7 +14,7 @@ export default function Greetings() {
       </Fade>
       <Fade delay={1800} distance="20px">
         <h3 className="greetings-subtitle">
-          {"We work for the betterment of our world."}
+          {"India’s Fastest growing Technical & Non-technical Community."}
         </h3>
       </Fade>
       <Fade delay={2000} distance="10px">
