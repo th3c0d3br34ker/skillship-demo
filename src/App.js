@@ -11,7 +11,7 @@ import TopButton from "./components/TopButton";
 
 class App extends Component {
   state = {
-    loading: false,
+    loading: true,
   };
 
   componentDidMount() {
