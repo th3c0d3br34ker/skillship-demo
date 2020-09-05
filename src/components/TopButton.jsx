@@ -61,9 +61,7 @@ export default function TopButton() {
       onMouseEnter={() => onMouseEnter("#92217a", "#ffffff")}
       onMouseLeave={() => onMouseLeave("#ffffff", "#92217a")}
     >
-      <span id="arrow" aria-hidden="true">
-        &#11165;
-      </span>
+      <i id="arrow" aria-hidden="true" className="fa fa-arrow-up"></i>
     </div>
   );
 }
