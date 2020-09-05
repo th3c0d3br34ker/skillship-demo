@@ -3,6 +3,7 @@ import React, { Component } from "react";
 import Blogs from "./components/Blogs.jsx";
 import Branches from "./components/Branches.jsx";
 import Community from "./components/Community.jsx";
+import Footer from "./components/Footer.jsx";
 import Greetings from "./components/Greetings.jsx";
 import Header from "./components/Header.jsx";
 import PageLoader from "./components/Loader.jsx";
@@ -31,6 +32,7 @@ class App extends Component {
             <Community />
             <Blogs />
             <Branches />
+            <Footer />
             <SocialMedia />
             <TopButton />
           </React.Fragment>

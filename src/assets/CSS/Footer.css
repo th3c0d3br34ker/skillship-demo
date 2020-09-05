@@ -1,0 +1,34 @@
+.footer-wrapper {
+  background-color: #92217a;
+  color: white;
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+}
+
+.copyright {
+  text-align: center;
+  font-size: 14px;
+}
+
+.footerlist {
+  list-style: none;
+  margin-left: -40px;
+}
+
+.footerlist a {
+  color: white;
+}
+
+.footerlist a:hover {
+  text-decoration: none;
+  outline: none;
+}
+
+@media only screen and (max-width: 768px) {
+  .footer-wrapper {
+    margin-bottom: -80px;
+  }
+  .copyright {
+    font-size: 10px;
+  }
+}
