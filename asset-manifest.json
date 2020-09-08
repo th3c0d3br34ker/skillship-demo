@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/skillship-demo/static/css/main.c50d8d90.chunk.css",
+    "main.js": "/skillship-demo/static/js/main.c28382eb.chunk.js",
+    "main.js.map": "/skillship-demo/static/js/main.c28382eb.chunk.js.map",
+    "runtime-main.js": "/skillship-demo/static/js/runtime-main.7baebe38.js",
+    "runtime-main.js.map": "/skillship-demo/static/js/runtime-main.7baebe38.js.map",
+    "static/js/2.1cf44d1a.chunk.js": "/skillship-demo/static/js/2.1cf44d1a.chunk.js",
+    "static/js/2.1cf44d1a.chunk.js.map": "/skillship-demo/static/js/2.1cf44d1a.chunk.js.map",
+    "index.html": "/skillship-demo/index.html",
+    "precache-manifest.d3f8fae6905047f1bb2d5062e7df5999.js": "/skillship-demo/precache-manifest.d3f8fae6905047f1bb2d5062e7df5999.js",
+    "service-worker.js": "/skillship-demo/service-worker.js",
+    "static/css/main.c50d8d90.chunk.css.map": "/skillship-demo/static/css/main.c50d8d90.chunk.css.map",
+    "static/js/2.1cf44d1a.chunk.js.LICENSE.txt": "/skillship-demo/static/js/2.1cf44d1a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7baebe38.js",
+    "static/js/2.1cf44d1a.chunk.js",
+    "static/css/main.c50d8d90.chunk.css",
+    "static/js/main.c28382eb.chunk.js"
+  ]
+}
