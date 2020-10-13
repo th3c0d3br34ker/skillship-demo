@@ -13,3 +13,5 @@ This is a demo site for SkillShip Foundation.
 5. Branches
 6. Footer
 7. Top Button
+
+> Made with 🖤 by Jainam Desai
